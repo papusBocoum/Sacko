@@ -1,0 +1,15 @@
+{
+  "name": "sitesackomining",
+  "version": "1.0.0",
+  "description": "site web",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ousmane",
+  "license": "ISC"
+}
